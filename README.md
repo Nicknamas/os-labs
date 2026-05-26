@@ -699,4 +699,9 @@ https://rutube.ru/video/1cab14af110d8989e8b836b22e2974ad/
 <img width="1248" height="350" alt="image" src="https://github.com/user-attachments/assets/40623696-922c-4025-a16e-dc6a3c1f7b1e" />
 <img width="1115" height="535" alt="image" src="https://github.com/user-attachments/assets/57055a97-4e4f-4543-af60-b5e43a633af9" />
 
+# Лабараторная работа №3b
+<img width="1529" height="1053" alt="image" src="https://github.com/user-attachments/assets/f21c7f12-1784-45c7-94b1-aeff9521d752" />
+<img width="1336" height="1072" alt="image" src="https://github.com/user-attachments/assets/08fa1d1e-0ca0-4937-9089-4ecd82b53ad0" />
+
+
 
