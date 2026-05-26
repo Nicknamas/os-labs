@@ -689,6 +689,10 @@ clean:
 	rm -f *.o app parallel_app main_O0.s main_O2.s output.txt
 ```
 
+# Лабараторная работа №2
+
+
+https://rutube.ru/video/1cab14af110d8989e8b836b22e2974ad/
 
 
 # Лабараторная работа №3a
